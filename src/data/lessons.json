@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fractions-basics",
+    "title": "Introduction to Fractions",
+    "description": "Master the fundamentals of fractions including numerators, denominators, and basic operations.",
+    "content": "A fraction represents a part of a whole. It consists of two numbers: the numerator (top) and denominator (bottom). The numerator tells us how many parts we have, while the denominator tells us how many equal parts the whole is divided into. For example, in the fraction 3/4, 3 is the numerator and 4 is the denominator, meaning we have 3 out of 4 equal parts.",
+    "tags": ["math", "fractions", "beginner"],
+    "difficulty": "beginner",
+    "estimatedTime": 15,
+    "xpReward": 50
+  },
+  {
+    "id": "algebra-equations",
+    "title": "Solving Linear Equations",
+    "description": "Learn techniques for solving single-variable linear equations step by step.",
+    "content": "Linear equations are mathematical statements where the highest power of the variable is 1. To solve them, we use inverse operations to isolate the variable. For example, to solve 2x + 5 = 13, we subtract 5 from both sides to get 2x = 8, then divide both sides by 2 to find x = 4. Always perform the same operation on both sides to maintain equality.",
+    "tags": ["math", "algebra", "intermediate"],
+    "difficulty": "intermediate",
+    "estimatedTime": 20,
+    "xpReward": 75
+  },
+  {
+    "id": "photosynthesis",
+    "title": "Understanding Photosynthesis",
+    "description": "Explore how plants convert sunlight into energy through the process of photosynthesis.",
+    "content": "Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to produce glucose and oxygen. This occurs primarily in the chloroplasts of plant cells. The equation is: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂. This process is essential for life on Earth as it produces the oxygen we breathe and forms the base of most food chains.",
+    "tags": ["science", "biology", "intermediate"],
+    "difficulty": "intermediate",
+    "estimatedTime": 25,
+    "xpReward": 80
+  },
+  {
+    "id": "python-basics",
+    "title": "Python Programming Fundamentals",
+    "description": "Get started with Python programming: variables, data types, and basic operations.",
+    "content": "Python is a versatile programming language known for its readable syntax. Variables store data: name = 'Alice' (string), age = 25 (integer). Common data types include integers, floats, strings, and booleans. Python uses indentation for code blocks. Basic operations include arithmetic (+, -, *, /), comparison (==, !=, <, >), and logical operators (and, or, not).",
+    "tags": ["programming", "python", "beginner"],
+    "difficulty": "beginner",
+    "estimatedTime": 30,
+    "xpReward": 100
+  },
+  {
+    "id": "geometry-triangles",
+    "title": "Properties of Triangles",
+    "description": "Study different types of triangles and their unique properties and theorems.",
+    "content": "Triangles are polygons with three sides and three angles. Types include: Equilateral (all sides equal), Isosceles (two sides equal), and Scalene (all sides different). By angles: Acute (all angles < 90°), Right (one angle = 90°), Obtuse (one angle > 90°). Key theorem: The sum of all angles in a triangle always equals 180°. The Pythagorean theorem applies to right triangles: a² + b² = c².",
+    "tags": ["math", "geometry", "intermediate"],
+    "difficulty": "intermediate",
+    "estimatedTime": 20,
+    "xpReward": 70
+  },
+  {
+    "id": "chemical-reactions",
+    "title": "Types of Chemical Reactions",
+    "description": "Learn to identify and balance different types of chemical reactions.",
+    "content": "Chemical reactions involve the transformation of substances into new products. Main types: Synthesis (A + B → AB), Decomposition (AB → A + B), Single Replacement (A + BC → AC + B), Double Replacement (AB + CD → AD + CB), and Combustion (fuel + O₂ → CO₂ + H₂O). Balancing equations ensures the law of conservation of mass is maintained.",
+    "tags": ["science", "chemistry", "advanced"],
+    "difficulty": "advanced",
+    "estimatedTime": 35,
+    "xpReward": 120
+  },
+  {
+    "id": "essay-writing",
+    "title": "Writing Effective Essays",
+    "description": "Master the art of crafting well-structured, persuasive essays with clear arguments.",
+    "content": "A strong essay has three parts: Introduction (hook, context, thesis), Body (2-3 paragraphs with evidence and analysis), and Conclusion (restate thesis, summarize key points). Each paragraph should have a topic sentence, supporting evidence, and analysis. Use transitions to connect ideas. Always revise for clarity, grammar, and flow.",
+    "tags": ["english", "writing", "intermediate"],
+    "difficulty": "intermediate",
+    "estimatedTime": 40,
+    "xpReward": 90
+  },
+  {
+    "id": "world-war-ii",
+    "title": "World War II: Causes and Impact",
+    "description": "Examine the major causes, key events, and lasting effects of World War II.",
+    "content": "World War II (1939-1945) was caused by unresolved issues from WWI, economic depression, and rise of totalitarian regimes. Key events include the invasion of Poland, Pearl Harbor, D-Day, and atomic bombs on Hiroshima and Nagasaki. The war resulted in ~70-85 million casualties, the Holocaust, formation of the United Nations, and beginning of the Cold War.",
+    "tags": ["history", "world-war", "advanced"],
+    "difficulty": "advanced",
+    "estimatedTime": 45,
+    "xpReward": 130
+  }
+]
