@@ -34,10 +34,22 @@ export function Header() {
               Lessons
             </Link>
             <Link
-              to="/teacher"
+              to="/pricing"
               className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
             >
-              Teacher Analytics
+              Pricing
+            </Link>
+            <Link
+              to="/about"
+              className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
+            >
+              About
+            </Link>
+            <Link
+              to="/contact"
+              className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
+            >
+              Contact
             </Link>
           </nav>
 
@@ -87,11 +99,25 @@ export function Header() {
               Lessons
             </Link>
             <Link
-              to="/teacher"
+              to="/pricing"
               className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
               onClick={() => setMobileMenuOpen(false)}
             >
-              Teacher Analytics
+              Pricing
+            </Link>
+            <Link
+              to="/about"
+              className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
+              onClick={() => setMobileMenuOpen(false)}
+            >
+              About
+            </Link>
+            <Link
+              to="/contact"
+              className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
+              onClick={() => setMobileMenuOpen(false)}
+            >
+              Contact
             </Link>
             <div className="flex flex-col space-y-2 pt-2">
               <Link to="/auth" onClick={() => setMobileMenuOpen(false)}>
